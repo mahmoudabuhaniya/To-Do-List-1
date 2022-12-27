@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.tododiv {
+  margin-left: 50px;
+  margin-right: 10px;
+  text-align: left;
+}
+.strike {
+  text-decoration: line-through;
+}
+
+.row {
+  width: 100%;
+  margin: 0 auto;
+}
+.block1 {
+  width: 80%;
+  float: left;
+}
+.block2 {
+  width: 20%;
+  float: left;
+}
